@@ -69,7 +69,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     
     <div class="container my-3">
     <h1 class ="text-center">Login to our Website</h1>
-    <form action ="/loginsys/login.php" method = "post" style="display: flex;
+    <form action ="/loginsys/index.php" method = "post" style="display: flex;
     flex-direction: column;
     align-items: center;">
   <div class="form-group col-md-6">
